@@ -9,3 +9,4 @@ C:\Users\Doğukan\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicare
 C:\Users\Doğukan\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\refint\ETicaretAPI.Infrastructure.dll
 C:\Users\Doğukan\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.pdb
 C:\Users\Doğukan\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ref\ETicaretAPI.Infrastructure.dll
+C:\Users\Doğukan\Desktop\ETicaretUygulaması\ETicaretAPI\Infrastructure\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.sourcelink.json
